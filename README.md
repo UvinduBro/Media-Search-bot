@@ -4,10 +4,9 @@
 * When you going to post file on telegram channel/group this bot will save that in database, So you can search that easily in inline mode.
 * Supports document, video and audio file formats with caption.
 
-### Installation
+# DEPLOY TO HEROKU
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UvinduBro/Media-Search-bot)
 
-#### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 #### Watch this video to create bot - https://youtu.be/dsuTn4qV2GA
 
